@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/mehulbawadia.github.io/react-travel-website/static/css/main.1d8940db.chunk.css",
-    "main.js": "/mehulbawadia.github.io/react-travel-website/static/js/main.3d00e01c.chunk.js",
-    "main.js.map": "/mehulbawadia.github.io/react-travel-website/static/js/main.3d00e01c.chunk.js.map",
+    "main.js": "/mehulbawadia.github.io/react-travel-website/static/js/main.6674b6ed.chunk.js",
+    "main.js.map": "/mehulbawadia.github.io/react-travel-website/static/js/main.6674b6ed.chunk.js.map",
     "runtime-main.js": "/mehulbawadia.github.io/react-travel-website/static/js/runtime-main.1599aecb.js",
     "runtime-main.js.map": "/mehulbawadia.github.io/react-travel-website/static/js/runtime-main.1599aecb.js.map",
     "static/js/2.cdf72204.chunk.js": "/mehulbawadia.github.io/react-travel-website/static/js/2.cdf72204.chunk.js",
@@ -16,6 +16,6 @@
     "static/js/runtime-main.1599aecb.js",
     "static/js/2.cdf72204.chunk.js",
     "static/css/main.1d8940db.chunk.css",
-    "static/js/main.3d00e01c.chunk.js"
+    "static/js/main.6674b6ed.chunk.js"
   ]
 }
