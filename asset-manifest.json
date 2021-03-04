@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/mehulbawadia.github.io/react-travel-website/static/css/main.1d8940db.chunk.css",
+    "main.js": "/mehulbawadia.github.io/react-travel-website/static/js/main.3d00e01c.chunk.js",
+    "main.js.map": "/mehulbawadia.github.io/react-travel-website/static/js/main.3d00e01c.chunk.js.map",
+    "runtime-main.js": "/mehulbawadia.github.io/react-travel-website/static/js/runtime-main.1599aecb.js",
+    "runtime-main.js.map": "/mehulbawadia.github.io/react-travel-website/static/js/runtime-main.1599aecb.js.map",
+    "static/js/2.cdf72204.chunk.js": "/mehulbawadia.github.io/react-travel-website/static/js/2.cdf72204.chunk.js",
+    "static/js/2.cdf72204.chunk.js.map": "/mehulbawadia.github.io/react-travel-website/static/js/2.cdf72204.chunk.js.map",
+    "index.html": "/mehulbawadia.github.io/react-travel-website/index.html",
+    "static/css/main.1d8940db.chunk.css.map": "/mehulbawadia.github.io/react-travel-website/static/css/main.1d8940db.chunk.css.map",
+    "static/js/2.cdf72204.chunk.js.LICENSE.txt": "/mehulbawadia.github.io/react-travel-website/static/js/2.cdf72204.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/mehulbawadia.github.io/react-travel-website/static/media/img-8.fabdf94d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1599aecb.js",
+    "static/js/2.cdf72204.chunk.js",
+    "static/css/main.1d8940db.chunk.css",
+    "static/js/main.3d00e01c.chunk.js"
+  ]
+}
